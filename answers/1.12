@@ -1,1 +1,1 @@
-docker run -d --name mon-front-app -p 8081:80 -e WS_BACK_URL=http://localhost:8080 vincentmly/my-html-front:latest
+docker run -d --name mon-front-app -p 8081:80 -e TR_WS_BACK_URL=http://localhost:8080 vincentmly/my-html-front:latest
