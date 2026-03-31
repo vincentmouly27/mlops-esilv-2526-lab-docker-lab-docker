@@ -1,0 +1,1 @@
+docker stop mon-back-app mon-front-app && docker rm mon-back-app mon-front-app
